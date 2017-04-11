@@ -9,3 +9,5 @@ Math On Air
 [绿色的数学印象](http://blog.csdn.net/dachuangmath/article/details/51062407)
 
 [色度图的问题](http://blog.csdn.net/dachuangmath/article/details/51037991)
+
+[杵臼关节](https://github.com/mmbiyelunwen/mmbiyelunwen.github.io/article.md)
